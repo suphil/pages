@@ -1,0 +1,13 @@
+.content{ width: 95%;margin:  0 auto;}
+
+.search{ margin: 20px;text-align: right;height: 30px;line-height: 30px;}
+.select-my{ width: 280px;display: inline-block;}
+/* .input-my{ width: 180px;} */
+/* .input-my{ width: 180px;height: 28px;line-height: 28px;border: 1px solid #C4C6CF;padding: 0;border-radius: 3px;padding-left: 10px;}
+.input-my:focus{border: 1px solid #C4C6CF;} */
+.search-btn{ height: 32px;line-height: 32px;display: inline-block;background-color: #007BE2;width: 90px;text-align: center;color: #fff;
+	text-decoration: none;font-size: 14px;border-radius: 5px;}
+
+.tabs-panels{border-color: #fff;}
+.panel-body{border-color: #ccc;}
+.datagrid-row-selected{background: #fff;}
